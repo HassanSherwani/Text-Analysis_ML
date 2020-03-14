@@ -6,4 +6,8 @@ https://www.dataschool.io/learn/
 
 # Content
 
+Notebook1.a: Text Classifier using Machine Learning implementing Spam e-mail case
+
 # Modules
+
+Pandas, Numpy, Sklearn , re , string, nltk , spacy , matplotlib, seaborn,textblob.
