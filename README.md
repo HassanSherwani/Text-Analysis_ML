@@ -6,7 +6,12 @@ https://www.dataschool.io/learn/
 
 # Content
 
-Notebook1.a: Text Classifier using Machine Learning implementing Spam e-mail case
+- Notebook1.a: Text Classifier using Machine Learning implementing Spam e-mail case <br>
+
+- Notebook1.b: Text classifier applying Yelp reviews data
+
+- Notebook2.a: Text Data Preprocessing (Tokenizing the text , Comparing the accuracy of different approaches , Removing frequent, terms (stop words), Removing infrequent terms , Handling Unicode errors.
+
 
 # Modules
 
