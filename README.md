@@ -18,6 +18,8 @@ https://www.dataschool.io/learn/
 
 - Notebook4.a: Applying Regular expression using IMDb top 100 movies case
 
+- Notebook 5: Chaining ML steps into a Pipeline using Kaggle challenge case.
+
 
 # Modules
 
