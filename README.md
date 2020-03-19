@@ -20,7 +20,7 @@ https://www.dataschool.io/learn/
 
 - Notebook 5: Chaining ML steps into a Pipeline using Kaggle challenge case.
 
-- Notebook 6: Ensemble Model + Model stacking 
+- Notebook 6: Ensemble Model + Model stacking using Kaggle challenge case
 
 
 # Modules
