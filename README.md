@@ -27,4 +27,4 @@ https://www.kaggle.com/c/whats-cooking
 
 # Modules
 
-Pandas, Numpy, Sklearn , re , string, nltk , spacy , matplotlib, seaborn,textblob.
+Pandas, Numpy, Sklearn , re , string, nltk , spacy , matplotlib,plotly, seaborn,textblob.
